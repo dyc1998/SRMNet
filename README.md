@@ -39,7 +39,7 @@ To test the pre-trained models of Denoising on your own images, run
 ```
 python demo.py --input_dir images_folder_path --result_dir save_images_here --weights path_to_models
 ```
-**All pre-trained models can be downloaded at [pretrained_model/README.md](pretrained_model/README.md) or [here](https://github.com/FanChiMao/SRMNet/releases)**  
+**All pre-trained models can be downloaded at [pretrained_model/README.md](pretrained_model/README.md) or [here](https://github.com/TentativeGitHub/SRMNet/releases)**  
 
 ## Train  
 To train the restoration models of Denoising. You should check the following components are correct:  
@@ -97,7 +97,7 @@ To train the restoration models of Denoising. You should check the following com
 
 <img src = "https://i.imgur.com/H9CWlll.png" width="800">  
 
-**More visual results can be downloaded at [here](https://github.com/FanChiMao/SRMNet/releases).**  
+**More visual results can be downloaded at [here](https://github.com/TentativeGitHub/SRMNet/releases).**  
 
 
 ## Citation  
