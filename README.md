@@ -95,7 +95,8 @@ To train the restoration models of Denoising. You should check the following com
 
 ## Visual Comparison  
 
-<img src = "https://i.imgur.com/H9CWlll.png" width="800">  
+<img src = "https://i.imgur.com/yJwFJ0a.png" width="800">  
+<img src = "https://i.imgur.com/0GMAhfH.png" width="800">  
 
 **More visual results can be downloaded at [here](https://github.com/FanChiMao/SRMNet/releases).**  
 
